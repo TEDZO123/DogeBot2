@@ -1,7 +1,7 @@
 {
-  "name": "Doge Bot",
+  "name": "TEDZO Bot",
   "version": "2.0.0",
-  "description": "Xeon Bot Inc.",
+  "description": "TEDZO Bot Inc.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
