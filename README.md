@@ -36,17 +36,17 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/TEDZO123/DogeBot2/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/TEDZO123/DogeBot2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/TEDZO123/DogeBot2/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/TEDZO123/DogeBot.git
 🦄 cd DogeBot2
 🦄 npm start
 ```
